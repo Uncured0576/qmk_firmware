@@ -28,3 +28,5 @@
 
 #define ENCODER_A_PINS { F4 }
 #define ENCODER_B_PINS { F0 }
+// from via config.h
+#define DYNAMIC_KEYMAP_LAYER_COUNT 8
